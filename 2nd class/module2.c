@@ -3,6 +3,7 @@ int main()
 {
     int tk;
     scanf("%d",&tk);
+    //printf("Tk %d",tk)
     if(tk>=100)
     {
         printf("I will eat burger");
